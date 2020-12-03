@@ -14,4 +14,3 @@ def join_nested_strings(src)
   end
   newArray.join(str)
 end
-end
